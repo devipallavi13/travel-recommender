@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 
 # ---------- Load data ----------
-DF_PATH = "data/destinations.csv"
+DF_PATH = "Destinations.csv"
 df = pd.read_csv(DF_PATH)
 
 # Normalize some fields
@@ -113,3 +113,4 @@ if __name__ == "__main__":
     print(recommend_by_preferences(['beach'],top_k=2).to_string(index=False))
     print("\n=== Sample: similar to 'Bali' ===")
     print(recommend_similar_to('bangalore',top_k=1).to_string(index=False))
+
