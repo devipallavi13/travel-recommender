@@ -3,14 +3,19 @@ id,Destination,Country,Type,Best_Season,Average_Cost,Popular_Attractions,Rating
 2,Paris,France,Romance,Apr-Jun,1500,Eiffel Tower,4.7
 3,Bangalore,Karnataka,Street Shopping,Jan-Dec,200,Street Shoping,4.8
 4,Vizag,AndhraPradesh,Beach,Jan-Dec,0,Beach,4.9
-5,Bali,Indonesia,Culture,Apr-Oct,800,Temples,4.6
-6,,,,,,,
-7,,,,,,,
-8,,,,,,,
-9,,,,,,,
-10,,,,,,,
-11,,,,,,,
-12,,,,,,,
-13,,,,,,,
-14,,,,,,,
-15,,,,,,,
+5,Tirupathi,AndhraPradesh,temples,Apr-Oct,800,Temples,4.6
+6,Imax,India,movie,Jan-Dec,400,malls,4.7
+7,Bangalore,Karnataka,funzone,Jan-Dec,1200,Amoeba,4.8
+8,Manali,Himachal Pradesh,Hill Station,Oct-Mar,1000,Snow Mountains,4.9
+9,Jaipur,Rajasthan,Heritage,Oct-Mar,700,Forts & Palaces,4.8
+10,Maldives,Maldives,Island,Nov-Apr,2500,Water Villas,4.9
+11,Dubai,UAE,Luxury,Nov-Mar,3000,Burj Khalifa,4.7
+12,Singapore,Singapore,Adventure,Jan-Dec,2800,Universal Studios,4.8
+13,Kerala,India,Backwaters,Oct-Feb,900,Houseboats,4.7
+14,Switzerland,Switzerland,Scenic,Apr-Sep,4000,Alps,4.9
+15,Hyderabad,Telangana,Historical,Nov-Feb,600,Charminar,4.6
+16,Mumbai,Maharashtra,City Life,Oct-Mar,700,Gateway of India,4.5
+17,Chennai,Tamil Nadu,Culture,Nov-Feb,500,Marina Beach,4.6
+18,Coorg,Karnataka,Nature,Sep-Mar,800,Coffee Plantations,4.8
+19,Darjeeling,West Bengal,Hill Station,Oct-Apr,1000,Tea Gardens,4.7
+20,Andaman,India,Beach,Oct-Apr,2000,Scuba Diving,4.9
